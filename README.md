@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berke KOCABALKAN</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
-- 🌱 I’m currently learning **angular**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **berke.kocabalkan@gmail.com**
 
